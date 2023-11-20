@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "851383457645",
+    "project_id": "user-auth-d0c0a",
+    "storage_bucket": "user-auth-d0c0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851383457645:android:5352823ed759a3819f6c64",
+        "android_client_info": {
+          "package_name": "com.example.mobus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSLAWgrVNKqCmjaeVuVczlFl2CQZo-fSI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
